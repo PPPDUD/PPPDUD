@@ -11,6 +11,12 @@ If your project needs commitment from contributors, then you're probably better 
 
 My friends sometimes describe me as a realistic person, and I don't entirely disagree.
 
+I have done minor outside work for a variety of notable projects, including but not limited to:
+- Canonical
+- HandBrake
+- TurboWarp
+- Ocular
+
 ## About mixing code and politics in my presence
 Code is code, politics are politics. If you want to express your own politics, go buy a web server.
 
