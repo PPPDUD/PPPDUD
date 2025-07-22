@@ -2,7 +2,7 @@
 ## About me
 I don't do important work outside of my own hobbies, and most of my repositories are not interesting or useful in their current state.
 
-My talent really shines my understanding of the intricacies of the English language and my ability to comprehend complicated language (that's why these words are so big!)
+My talent really shines with my understanding of the intricacies of the English language and my ability to comprehend complicated words easily.
 
 ## About working with me on GitHub
 I will often come to a random GitHub repository, report a bug or fix a typo (usually the latter) and then disappear somewhere else. My outside work is entirely non-committal (literal meaning, not as in `git` commits).
