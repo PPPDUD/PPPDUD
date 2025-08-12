@@ -32,3 +32,4 @@ I think that the idea of sabotaging X11 in favor of Wayland is not a good one, b
 <img src="https://komarev.com/ghpvc/?username=pppdud&color=brightgreen" alt="watching_count" />
 
 [![PPPDUD's GitHub stats](https://github-readme-stats.vercel.app/api?username=pppdud&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+
