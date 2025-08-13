@@ -27,6 +27,13 @@ My daily driver runs Wayland at the moment, but I really don't care about that c
 
 I think that the idea of sabotaging X11 in favor of Wayland is not a good one, but I'm stuck with two equally bad choices and Wayland was easier to set up on Ubuntu 25.04. Don't involve me in your petty wars and be grateful that someone cared to make the software (for zero cost) that profits you every single day, both financially and in a general sense.
 
+## Views on cybersecurity
+If someone uses a badly-constructed lock on their house, they probably left an open window somewhere.
+
+Don't bother with the lock. See what you can do with the window.
+
+If you're a software developer: build it and the bad actors will come.
+
 ## Some cool widgets that I picked up
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/PPPDUD/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/PPPDUD/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/PPPDUD/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 <img src="https://komarev.com/ghpvc/?username=pppdud&color=brightgreen" alt="watching_count" />
