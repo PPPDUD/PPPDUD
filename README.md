@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 ## About me
-I don't do important work outside of my own hobbies, and most of my repositories are not interesting or useful in their current state.
+I don't do a lot of important work outside of my own hobbies, and most of my repositories are not interesting or useful in their current state.
 
 My talent really shines with my understanding of the intricacies of the English language and my ability to comprehend complicated words easily.
 
