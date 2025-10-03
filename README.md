@@ -16,6 +16,9 @@ I have done minor outside work for a variety of notable projects, including but 
 - HandBrake
 - TurboWarp
 - Ocular
+- Yacy
+- Pencil2D
+- EasyList
 
 ## About mixing code and politics in my presence
 Code is code, politics are politics. If you want to express your own politics, go buy a web server.
