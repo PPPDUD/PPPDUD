@@ -5,7 +5,7 @@ I don't do a lot of important work outside of my own hobbies, and most of my rep
 My talent really shines with my understanding of the intricacies of the English language and my ability to comprehend complicated words easily.
 
 ## About working with me on GitHub
-I will often come to a random GitHub repository, report a bug or fix a typo (usually the latter) and then disappear somewhere else. My outside work is entirely non-committal (literal meaning, not as in `git` commits).
+I will often come to a random GitHub repository, report a bug or fix a typo (usually the latter) and then disappear somewhere else. My outside work is almost entirely non-committal (literal meaning, not as in `git` commits).
 
 If your project needs commitment from contributors, then you're probably better off without me. I will leave 5 bugs and 0 code comments and then I will abandon your project forever. I am also often excessively frank in my communications and appear more rude than I usually intend to.
 
