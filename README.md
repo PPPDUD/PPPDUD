@@ -4,10 +4,11 @@ I don't do a lot of important work outside of my own hobbies, and most of my rep
 
 My talent really shines with my understanding of the intricacies of the English language and my ability to comprehend complicated words easily.
 
+Code of Conduct documents are the bane of my existence. When you're communicating with me, expect that I will follow the rules set out at https://nocodeofconduct.com/; I expect that you will too.
 ## About working with me on GitHub
 I will often come to a random GitHub repository, report a bug or fix a typo (usually the latter) and then disappear somewhere else. My outside work is almost entirely non-committal (literal meaning, not as in `git` commits).
 
-If your project needs commitment from contributors, then you're probably better off without me. I will leave 5 bugs and 0 code comments and then I will abandon your project forever. I am also often excessively frank in my communications and appear more rude than I usually intend to.
+I am often excessively frank in my communications and appear more rude than I usually intend to.
 
 My friends sometimes describe me as a realistic person, and I don't entirely disagree.
 
@@ -20,6 +21,12 @@ I have done minor outside work for a variety of notable projects, including but 
 - Pencil2D
 - EasyList
 
+Projects that I work on include:
+- MiniGuinea (an adblocker with none of the nonsense, along with a permissive MIT-style license agreement)
+- homemade_yes (the GNU `yes` command but slightly faster on some machines; written in ~30 lines of Rust)
+- yes_installer (a script to quickly install and manage a copy of homemade_yes)
+- Jameson (a programming language for people who liked Scratch before it started paywalling stuff)
+- https://mojavesoft.net and its mirror site https://mojavesoft.org (website for cool people)
 ## About mixing code and politics in my presence
 Code is code, politics are politics. If you want to express your own politics, go buy a web server.
 
