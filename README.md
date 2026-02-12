@@ -4,7 +4,7 @@ I don't do a lot of important work outside of my own hobbies, and most of my rep
 
 My talent really shines with my understanding of the intricacies of the English language and my ability to comprehend complicated words easily.
 
-Code of Conduct documents are the bane of my existence. When you're communicating with me, expect that I will follow the rules set out at https://nocodeofconduct.com/; I expect that you will too.
+Undisclosed LLM-written code and/or documentation is extremely annoying for me. Please keep it away from my repositories.
 ## About working with me on GitHub
 I will often come to a random GitHub repository, report a bug or fix a typo (usually the latter) and then disappear somewhere else. My outside work is almost entirely non-committal (literal meaning, not as in `git` commits).
 
