@@ -4,7 +4,7 @@ I don't do a lot of important work outside of my own hobbies, and most of my rep
 
 My talent really shines with my understanding of the intricacies of the English language and my ability to comprehend complicated words easily.
 
-Undisclosed LLM-written code and/or documentation is extremely annoying for me. Please keep it away from my repositories.
+Also, [I despise the latest attempts at age verification bills](https://mojavesoft.net/age-verification/).
 ## About working with me on GitHub
 I will often come to a random GitHub repository, report a bug or fix a typo (usually the latter) and then disappear somewhere else. My outside work is almost entirely non-committal (literal meaning, not as in `git` commits).
 
@@ -27,15 +27,6 @@ Projects that I work on include:
 - yes_installer (a script to quickly install and manage a copy of homemade_yes)
 - Jameson (a programming language for people who liked Scratch before it started paywalling stuff)
 - https://mojavesoft.net and its mirror site https://mojavesoft.org (website for cool people)
-## About mixing code and politics in my presence
-Code is code, politics are politics. If you want to express your own politics, go buy a web server.
-
-X11, X11Libre, Wayland, and GNOME have all recently violated this rule in the last 6 months.
-
-## X11 or Wayland?
-My daily driver runs Wayland at the moment, but I really don't care about that choice. Both of them are maintained horribly (see above) and I would use something better if it were more convenient.
-
-I think that the idea of sabotaging X11 in favor of Wayland is not a good one, but I'm stuck with two equally bad choices and Wayland was easier to set up on Ubuntu 25.04. Don't involve me in your petty wars and be grateful that someone cared to make the software (for zero cost) that profits you every single day, both financially and in a general sense.
 
 ## Views on cybersecurity
 If someone uses a badly-constructed lock on their house, they probably left an open window somewhere.
@@ -55,4 +46,3 @@ understand? [(source)](https://marc.info/?l=linux-kernel&m=135628421403144&w=2)
 <img src="https://komarev.com/ghpvc/?username=pppdud&color=brightgreen" alt="watching_count" />
 
 [![PPPDUD's GitHub stats](https://github-readme-stats.vercel.app/api?username=pppdud&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
-
