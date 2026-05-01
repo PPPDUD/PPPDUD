@@ -20,6 +20,8 @@ I have done minor outside work for a variety of notable projects, including but 
 - Pencil2D
 - EasyList
 
+After learning that parts of some TurboWarp extensions were being authored by Claude, I left the project voluntarily.
+
 Projects that I work on include:
 - MiniGuinea (an adblocker with none of the nonsense, along with a permissive MIT-style license agreement)
 - homemade_yes (the GNU `yes` command but slightly faster on some machines; written in ~30 lines of Rust)
