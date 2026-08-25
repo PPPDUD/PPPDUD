@@ -1,4 +1,6 @@
 # Welcome to my GitHub profile!
+> [!IMPORTANT]
+> Most of my repositories here have been migrated to https://git.hermits.cc. See that site for my latest work.
 ## About me
 I don't do a lot of important work outside of my own hobbies, and most of my repositories are not interesting or useful in their current state.
 
